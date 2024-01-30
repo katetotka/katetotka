@@ -4,7 +4,7 @@
 returning home from Mars a sudden stellar storm took me off my path and I found myself in a parallel universe where everything needed data to work. I was fascinated by the way the
 inhabitants of this universe used data to make data-driven decisions and improve their standard way of living! When I turned back home, I was thinking completely different!
 I also wanted to be able to harness the enormous power of data and so I began to explore day by day every aspect of this field of science!
-- 📊 Now, I am working as a Customer Success Analyst in a company and I feel that I am one step closer to making my dream come true and becoming a data scientist!
+- 📊 Now, I am working as a Data Engineer at Accenture and I feel that I am one step closer to making my dream come true and becoming a data scientist!
 - ✨ So, I am here to build and share my own projects with you. Wish each of my projects to offer me even more knowledge and experience!
 
 <!---
